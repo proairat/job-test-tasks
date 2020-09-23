@@ -1,0 +1,13 @@
+{
+  "name": "job-test-tasks",
+  "version": "1.0.0",
+  "description": "job-test-tasks",
+  "main": "index.js",
+  "author": {
+    "name": "Shayakhmetov Airat Irekovich"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4",
+    "smartystreets-javascript-sdk": "^1.5.0"
+  }
+}
