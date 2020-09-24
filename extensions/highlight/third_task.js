@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', function () {
 					})();`
 
 		});
+		
+		window.close();
 	});
 
 	document.body.dispatchEvent(new Event("click"));
